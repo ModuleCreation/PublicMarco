@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PublicMarco_Example' do
+  pod 'PublicMarco', :path => '../'
+
+  target 'PublicMarco_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
