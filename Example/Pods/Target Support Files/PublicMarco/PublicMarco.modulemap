@@ -1,0 +1,6 @@
+framework module PublicMarco {
+  umbrella header "PublicMarco-umbrella.h"
+
+  export *
+  module * { export * }
+}

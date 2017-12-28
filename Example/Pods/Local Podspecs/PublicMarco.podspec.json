@@ -1,0 +1,22 @@
+{
+  "name": "PublicMarco",
+  "version": "0.1.0",
+  "summary": "A short description of PublicMarco.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/TPQuietBro/PublicMarco",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "TPQuietBro": "luoxin3116@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/TPQuietBro/PublicMarco.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PublicMarco/Classes/**/*"
+}
